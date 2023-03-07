@@ -1,6 +1,6 @@
 ---
-title: 介绍
-linktitle: 介绍
+title: 快速开始
+linktitle: 快速开始
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
 tags: []
@@ -14,9 +14,4 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
-
-### 概述
-
-  OpenAI API 几乎可以应用于任何涉及理解或生成自然语言或代码的任务。我们提供一系列具有不同功率水平的`models`，适用于不同的任务，并能够微调您自己的定制模型。这些模型可用于从内容生成到语义搜索和分类的所有内容。
-
-### 关键概念
+快速开始
