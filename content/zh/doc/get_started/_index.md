@@ -1,5 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
+linktitle: 开始
 summary: ""
 authors: []
 tags: []
@@ -11,7 +11,7 @@ featured: false
 draft: false
 weight: 1000
 aliases:
-  - doc/get_started
+  - doc/get_started/introduction
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
