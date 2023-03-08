@@ -10,7 +10,7 @@ lastmod: 2023-03-07T09:59:24+08:00
 featured: false
 draft: false
 aliases:
-  - doc/get_started
+  - doc/get_started/introduction
 
 # View.
 #   1 = List
