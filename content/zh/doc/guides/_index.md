@@ -1,8 +1,5 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "Doc"
-subtitle: ""
+linktitle: 指引
 summary: ""
 authors: []
 tags: []
@@ -12,7 +9,9 @@ date: 2023-03-07T09:59:24+08:00
 lastmod: 2023-03-07T09:59:24+08:00
 featured: false
 draft: false
-url: doc/get_started/introduction
+weight: 2000
+aliases:
+  - doc/guides/text-completion
 
 # View.
 #   1 = List
