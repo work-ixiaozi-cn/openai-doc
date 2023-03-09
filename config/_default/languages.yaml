@@ -1,8 +1,3 @@
-# Languages
-#   Create a section for each of your site's languages.
-#   Documentation: https://wowchemy.com/docs/guide/language/
-
-# Default language
 en:
   languageCode: en
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
@@ -12,12 +7,12 @@ en:
 zh:
   languageCode: zh
   contentDir: content/zh
-  title: XXX
+  title: wjjss.com
   params:
     description: 描述
   menu:
     main:
-      - name: Home
+      - name: 首页
         url: '/'
         weight: 10
       - name: 文档
