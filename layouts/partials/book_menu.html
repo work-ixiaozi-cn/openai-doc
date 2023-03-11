@@ -39,6 +39,7 @@
     {{else}}
       <div class="docs-toc-item">
         <a class="docs-toc-link {{ if and .File $current_node.File | and (eq .File.UniqueID $current_node.File.UniqueID) }} active{{ end }}" href="{{ .RelPermalink }}">{{ safeHTML $icon }}{{ .LinkTitle }}</a>
+        {{ if and .File $current_node.File | and (eq .File.UniqueID $current_node.File.UniqueID) }}{{ .TableOfContents }}{{ end }}
     {{end}}
 
     {{- $page_count := (add (len .Pages) (len .Sections)) -}}
